@@ -1,6 +1,6 @@
 # <center><font color=darkblue> CoVID-19 - A Mobility Perspective</font></center>
 #### <center><font color=darkblue> Causal Analysis Of CoVID-19 based on Mobility Patterns</font></center>
-#### <center><font color=darkblue> Archana Krishnamurthy (Akrishn@iu.edu / archanakrishnamurthy86@gmail.com)</font></center>
+#### <center><font color=darkblue> Archana Krishnamurthy (Akrishn@iu.edu)</font></center>
 
 ### Abstract
 
