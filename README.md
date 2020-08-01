@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+# <center><font color=darkblue> CoVID-19 - A Mobility Perspective</font></center>
+# <center><font color=darkblue> Causal Analysis Of CoVID-19 based on Mobility Patterns</font></center>
+# <center><font color=darkblue> Archana Krishnamurthy (Akrishn@iu.edu / archanakrishnamurthy86@gmail.com)</font></center>
 
-You can use the [editor on GitHub](https://github.com/akrishn986/Covid19-Cause-EffectAnalysis/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Abstract
 
-Whenever you commit to this repository ok lets check this , GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a** lightweight ** and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/akrishn986/Covid19-Cause-EffectAnalysis/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The current outbreak of novel coronavirus (2019-nCoV or SARS-CoV-2) in China and globally has caused an uproar all over the world and was declared a pandemic in March 2020. There are a lot of unknowns around this virus and its spread, that numerous visualization efforts to understand the growth and spread of this virus is still not sufficient to paint a complete picture. In this paper an endeavor has made to provide another point of view on how the spread of this virus can be interpreted by the means of unique visualizations such as choropleths and interactive visuals using bokeh, availing the covid data from The New York Times, based on reports from state and local health agencies ,google mobility information and open table data. Furthermore, in an effort to understand the effect of mobility on the pandemic, causal analysis has been applied to the datasets categorized by states. 
